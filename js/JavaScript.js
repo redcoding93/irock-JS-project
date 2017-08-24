@@ -10,7 +10,7 @@ window.onload = function(){
 // Prompts the user to input their name into the prompt window.
 function clickRock(){
   var userName = prompt("Hi there!" + " Please enter your name so we can be friends!")
-  }
+  
 /* After taking the user's name as an input, it outputs the name and changes the image
 to a happy face. */ 
 
